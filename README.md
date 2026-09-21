@@ -1,4 +1,4 @@
-# HTTP-AP1
+# HTTP Comprendre le HTTP
 
 Projet réalisé dans le cadre d'un exercice sur les requêtes HTTP.
 
