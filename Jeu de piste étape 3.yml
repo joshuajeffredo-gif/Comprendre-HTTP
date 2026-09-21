@@ -1,0 +1,19 @@
+info:
+  name: Jeu de piste étape 3
+  type: http
+  seq: 4
+
+http:
+  method: POST
+  url: 172.16.3.254:8001/5-content-type
+  body:
+    type: json
+    data: ""
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false

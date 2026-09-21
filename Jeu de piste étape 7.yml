@@ -1,0 +1,27 @@
+info:
+  name: Jeu de piste étape 7
+  type: http
+  seq: 8
+
+http:
+  method: POST
+  url: 172.16.3.254:8001/etape9/api/users/12345
+  headers:
+    - name: Content-Type
+      value: application/json
+    - name: api-key
+      value: FenelonBTSSIO
+  body:
+    type: json
+    data: |-
+      {
+        "name" : "Donald Duck"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false
