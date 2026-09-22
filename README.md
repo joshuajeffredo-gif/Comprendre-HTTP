@@ -58,3 +58,45 @@ Les exercices communiquent avec une API disponible sur le réseau local :
 
 L'accès à cette API peut donc nécessiter d'être connecté au réseau prévu pour le TP.
 Réalisé par Chatgpt avec le prompt suivant : "si je t'envoie tout ça est-ce que tu peux me faire un readme simple ?"
+
+## BRUNO
+
+J'ai installé Bruno "https://www.usebruno.com/" <br>
+et j'ai mis la clé API donné dans le tp : "https://jsonplaceholder.typicode.com/posts" <br>
+puis avec un **GET** pour récupérer les information du serveur ce qui m'a donné ceci : 
+![alt text](assets/image-1.png)
+Pour répondre aux questions suivante : 
+- Comment est affichée la réponse ?
+**La réponse s’affiche à droite de l’écran, dans la partie Response, ici au format JSON.**
+- Comment sauvegarder la requête ?<br>
+**On peut sauvegarder la requête avec Ctrl + S ou avec l’option d’enregistrement de Bruno. La requête est enregistrée dans la collection.**
+- Comment organiser les requêtes (dossiers/collections) ?<br>
+**Les requêtes peuvent être regroupées dans des collections puis rangées dans des dossiers pour mieux les organiser.**
+
+## POSTMAN
+
+J'ai utilisé POSTMAN sur navigateur "https://web.postman.co/"<br>
+et j'ai mis la clé API donné dans le tp "https://jsonplaceholder.typicode.com/posts"<br>
+puis avec un **GET** pour récupérer les informations du serveur ce qui m'a donné ceci : 
+![alt text](assets/image.png)
+Pour répondre aux questions suivante : 
+- Comment est affichée la réponse ?<br>
+**La réponse s’affiche dans la partie basse de Postman, dans l’onglet Body ici au format JSON.**
+- Comment sauvegarder la requête ?
+**On peut sauvegarder la requête en cliquant sur le bouton Save en haut à droite.**
+- Comment organiser les requêtes (dossiers/collections) ?
+**Les requêtes peuvent être rangées dans des Collections puis classées dans des dossiers à l’intérieur de ces collections.**
+
+## INSOMNIA
+
+J'ai installé INSOMNIA "https://app.insomnia.rest/" <br>
+et j'ai mis la clé API donné dans le tp : "https://jsonplaceholder.typicode.com/posts" <br>
+puis avec un **GET** pour récupérer les information du serveur ce qui m'a donné ceci : 
+![alt text](assets/image-2.png)
+Pour répondre aux questions suivante : 
+- Comment est affichée la réponse ?<br>
+**La réponse s’affiche à droite de l’écran, dans l’onglet Preview, ici au format JSON.**
+- Comment sauvegarder la requête ?<br>
+**Insomnia enregistre automatiquement les modifications de la requête.**
+- Comment organiser les requêtes (dossiers/collections) ?<br>
+**Les requêtes peuvent être regroupées dans des collections et rangées dans des dossiers pour mieux les organiser.**
